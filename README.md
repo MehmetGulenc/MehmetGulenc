@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mehmet GÜLENÇ</h1>
 
-- 👀 I am interested in DotNet Core and Web Programming. I am improving myself in these areas.<br>
-- 📫 You can reach me on Twitter and Linkedin account 
+👀 I am interested in DotNet Core and Web Programming. I am improving myself in these areas.<br>
+📫 You can reach me on Twitter and Linkedin account 
 
 <a href="https://www.linkedin.com/in/mehmet-gülenç-924022187/" target="_blank" rel="nofollow"><img alt="Mehmet's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/mehmetgulenc_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
