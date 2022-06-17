@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mehmet GÜLENÇ</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">, I'm Mehmet GÜLENÇ</h1>
 
 👀 I am interested in DotNet Core and Web Programming. I am improving myself in these areas.<br>
 📫 You can reach me on Twitter and Linkedin account 
