@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<a href="https://github.com/mehmetgulenc">
+<!--<a href="https://github.com/mehmetgulenc">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mehmet+G%C3%9CLEN%C3%87+%F0%9F%91%8B;.NET+%26+Web+Developer;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/>-->
 
 <!-- Social Badges -->
 <a href="https://twitter.com/mehmetgulenc_">
